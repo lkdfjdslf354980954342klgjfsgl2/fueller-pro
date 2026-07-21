@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/lkdfjdslf35498095434342klgjfsgl2/'  // nombre de tu repo
+  base: '/fueller-pro/'  // <-- CAMBIA ESTO. Debe ser el nombre del repo
 })
